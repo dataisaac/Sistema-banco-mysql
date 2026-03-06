@@ -20,7 +20,7 @@ def cadastrar():
     print("Cliente cadastrado!")
 
 janela = tk.Tk()
-janela.title("Cadastro de Clientes")
+janela.title("Tela de cadas")
 
 tk.Label(janela,text="Nome").pack()
 entry_nome = tk.Entry(janela)
